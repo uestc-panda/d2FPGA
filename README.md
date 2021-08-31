@@ -16,6 +16,7 @@
 | 8 | 二进制转BCD码 | binary2bcd |
 | 9 | 矩阵键盘 | keyboard |
 | 10 | 最大公约数算法实现 | gcd |
+| 11 | LCD驱动 | LCD |
 
 ## 仓库说明
 
