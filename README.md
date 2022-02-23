@@ -24,4 +24,4 @@
 
 ## 贡献
 
-《走近FPGA》系列文章及相应工程实现由@pastglory, @yyyn-1203, @TheNightCanary协作完成。
+《走近FPGA》系列文章及相应工程实现由@flyjancy, @yyyn-1203, @TheNightCanary协作完成。
